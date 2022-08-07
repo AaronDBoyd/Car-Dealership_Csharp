@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Car-dealership/1.0.0": {
+        "runtime": {
+          "Car-dealership.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Car-dealership/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
