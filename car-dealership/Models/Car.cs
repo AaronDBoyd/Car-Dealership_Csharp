@@ -1,4 +1,4 @@
-// using System;
+using System;
 
 namespace Dealership.Models
 {
@@ -28,6 +28,11 @@ namespace Dealership.Models
     public int GetMiles()
     {
       return _miles;
+    }
+
+    public void SetPrice(int newPrice)
+    {
+      _price = newPrice;
     }
 
     public bool WorthBuying(int maxPrice)
